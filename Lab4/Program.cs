@@ -15,8 +15,8 @@ namespace Lab4 {
                 else
                     odd_sum += x; // иначе увеличиваем сумму нечётных
 
-            Console.WriteLine("Сумма нечётных чисел от 1 до {0} равна {1}", n, odd_sum);
-            Console.WriteLine("Сумма чётных чисел от 2 до {0} равна {1}", n, even_sum);
+            Console.WriteLine("Сумма первых {0} нечётных чисел {1}", n, odd_sum);
+            Console.WriteLine("Сумма первых {0} чётных чисел  равна {1}", n, even_sum);
             Console.ReadKey();
         }
     }

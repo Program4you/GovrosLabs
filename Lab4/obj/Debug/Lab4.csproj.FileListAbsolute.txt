@@ -4,3 +4,10 @@ C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\FourLabs\FourLabs\Lab4
 C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\FourLabs\FourLabs\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
 C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\FourLabs\FourLabs\Lab4\obj\Debug\Lab4.exe
 C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\FourLabs\FourLabs\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Andrew\Dropbox\UbuntuVB\GovrosLabs\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Andrew\Dropbox\UbuntuVB\GovrosLabs\Lab4\bin\Debug\Lab4.exe
+C:\Users\Andrew\Dropbox\UbuntuVB\GovrosLabs\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Andrew\Dropbox\UbuntuVB\GovrosLabs\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Dropbox\UbuntuVB\GovrosLabs\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Dropbox\UbuntuVB\GovrosLabs\Lab4\obj\Debug\Lab4.exe
+C:\Users\Andrew\Dropbox\UbuntuVB\GovrosLabs\Lab4\obj\Debug\Lab4.pdb
